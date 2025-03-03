@@ -20,7 +20,8 @@ npm run start
 
 API Endpoints:
 Method   	Endpoint	    Description
-POST	    /create	      Create a new record
+
+POST	/create	      Create a new record
 GET   	  /read/:id	    Retrieve a record
 PUT     	/update/:id	  Update a record
 DELETE	  /delete/:id	  Delete a record
