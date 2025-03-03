@@ -17,6 +17,7 @@ Install dependencies:
 npm install
 Start the server:
 npm run start
+
 API Endpoints:
 Method   	Endpoint	    Description
 POST	    /create	      Create a new record
