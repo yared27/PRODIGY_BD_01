@@ -3,14 +3,19 @@ I have used NestJS to complete this task. For storing the data, I have used in-m
 All CRUD (Create, Read, Update, Delete) operations have been thoroughly tested using Postman, and I have ensured that they work seamlessly.
 
 Features:
+
 ✅ Built with NestJS
+
 ✅ Uses in-memory data storage (Map)
+
 ✅ Fully tested with Postman
+
 ✅ Implements clean code practices
 
 How to Run the Project:
 
 Clone the repository:
+
 git clone https://github.com/yared27/Leet_code_problems.git
 
 Navigate to the project directory:
@@ -26,15 +31,16 @@ Start the server:
 npm run start
 
 API Endpoints:
-Method   	Endpoint	    Description
 
-POST	/create	      Create a new record
+Method    	Endpoint	        Description
 
-GET   	  /read/:id	    Retrieve a record
+POST	      /create	          Create a new record
 
-PUT     	/update/:id	  Update a record
+GET   	    /read/:id	        Retrieve a record
 
-DELETE	  /delete/:id	  Delete a record
+PUT     	  /update/:id	      Update a record
+
+DELETE	    /delete/:id	      Delete a record
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
