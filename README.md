@@ -32,15 +32,15 @@ npm run start
 
 API Endpoints:
 
-Method    	Endpoint	        Description
+Method    	        Endpoint	                                  Description
 
-POST	      /create	          Create a new record
+POST	               /create	                                     Create a new record
 
-GET   	    /read/:id	        Retrieve a record
+GET   	             /read/:id	                                   Retrieve a record
 
-PUT     	  /update/:id	      Update a record
+PUT     	          /update/:id	                                 Update a record
 
-DELETE	    /delete/:id	      Delete a record
+DELETE	            /delete/:id	                                 Delete a record
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
