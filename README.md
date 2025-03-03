@@ -9,21 +9,31 @@ Features:
 ✅ Implements clean code practices
 
 How to Run the Project:
+
 Clone the repository:
 git clone https://github.com/yared27/Leet_code_problems.git
+
 Navigate to the project directory:
+
 cd your_project_directory
+
 Install dependencies:
+
 npm install
+
 Start the server:
+
 npm run start
 
 API Endpoints:
 Method   	Endpoint	    Description
 
 POST	/create	      Create a new record
+
 GET   	  /read/:id	    Retrieve a record
+
 PUT     	/update/:id	  Update a record
+
 DELETE	  /delete/:id	  Delete a record
 
 <p align="center">
